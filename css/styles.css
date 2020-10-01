@@ -170,3 +170,21 @@ p{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+/* Footer link Icons */
+.footer__media-icons {
+  font-size: 24px !important;
+  color: beige;
+}
+
+.fa-linkedin:hover {
+  color: blue;
+}
+
+.fa-twitter:hover {
+  color: rgb(14, 141, 209);
+}
+
+.fa-globe:hover {
+  color: rgb(0, 252, 30);
+}
